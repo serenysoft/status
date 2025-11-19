@@ -5,20 +5,15 @@ repo: status
 sites:
   - name: SerenyCRM - Server
     url: https://serenycrm.com
-  - name: SerenyCRM - Application
+  - name: SerenyCRM - App
     url: https://app.serenycrm.com
 
 status-website:
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Sereny Software - Status
-  introTitle: "Sereny Software - Status and monitoring services"
-  introMessage: "Monitoring the status of Sereny services."
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  logoUrl: https://raw.githubusercontent.com/serenysoft/status/refs/heads/master/assets/sereny-icon.png
+  name: Sereny - Status
+  introTitle: "Sereny - Status e monitoramento dos serviços"
+  introMessage: "Monitoramento do status dos serviços da Sereny"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
