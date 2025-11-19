@@ -7,6 +7,9 @@ sites:
     url: https://serenycrm.com
   - name: SerenyCRM - App
     url: https://app.serenycrm.com
+  - name: SerenyPet
+    url: https://serenypet.com
+
 
 status-website:
   baseUrl: /status
