@@ -20,5 +20,3 @@ This repository contains the uptime monitor and status page for [Sereny Software
 <!--end: status pages-->
 
 [**Visit our status website →**](https://serenysoft.github.io/status)
-
-[**Visit our status website →**](https://serenysoft.github.io/status)
