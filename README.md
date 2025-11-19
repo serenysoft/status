@@ -1,4 +1,4 @@
-# 📊 Sereny software - Services status
+# 📊 Sereny - Services status
 
 This repository contains the uptime monitor and status page for [Sereny Software](https://sereny.net/).
 
