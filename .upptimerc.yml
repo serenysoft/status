@@ -45,7 +45,7 @@ i18n:
   ms: ms
   loading: Carregando
   navGitHub: GitHub
-  footer:
+  footer: ""
   rateLimitExceededTitle: Limite de requisições excedido
   rateLimitExceededIntro: Você excedeu o número de requisições que pode fazer em uma hora, então terá que aguardar antes de acessar este site novamente. Alternativamente, você pode adicionar um Token de Acesso Pessoal do GitHub para continuar usando este site.
   rateLimitExceededWhatDoesErrorMean: O que significa este erro?
