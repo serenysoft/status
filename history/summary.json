@@ -34,5 +34,23 @@
     "timeMonth": 99,
     "timeYear": 99,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "SerenyPet",
+    "url": "https://serenypet.com",
+    "icon": "https://icons.duckduckgo.com/ip3/serenypet.com.ico",
+    "slug": "sereny-pet",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 917,
+    "timeDay": 917,
+    "timeWeek": 917,
+    "timeMonth": 917,
+    "timeYear": 917,
+    "dailyMinutesDown": {}
   }
 ]
