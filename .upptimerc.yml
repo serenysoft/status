@@ -15,7 +15,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/serenysoft/status/refs/heads/master/assets/sereny-icon.png
   favicon: https://raw.githubusercontent.com/serenysoft/status/refs/heads/master/assets/sereny-icon.png
   name: Sereny - Status
-  introTitle: "Sereny - Status e monitoramento dos serviços"
+  introTitle: "Status e monitoramento dos serviços"
   introMessage: "Monitoramento do status dos serviços da Sereny"
   theme: ocean
 i18n:
