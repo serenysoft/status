@@ -4,18 +4,20 @@
     "url": "https://serenycrm.com",
     "icon": "https://icons.duckduckgo.com/ip3/serenycrm.com.ico",
     "slug": "sereny-crm-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 557,
-    "timeDay": 539,
-    "timeWeek": 591,
-    "timeMonth": 557,
-    "timeYear": 557,
-    "dailyMinutesDown": {}
+    "time": 1325,
+    "timeDay": 10151,
+    "timeWeek": 2987,
+    "timeMonth": 1325,
+    "timeYear": 1325,
+    "dailyMinutesDown": {
+      "2025-12-11": 0
+    }
   },
   {
     "name": "SerenyCRM - App",
