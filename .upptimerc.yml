@@ -4,7 +4,9 @@ repo: status
 
 sites:
   - name: SerenyCRM - Server
-    url: https://serenycrm.com
+    url: https://serenycrm.com/api/health
+    headers:
+      - "X-Secret-Token: $HEALTH_TOKEN"
   - name: SerenyCRM - App
     url: https://app.serenycrm.com
   - name: SerenyPet
