@@ -12,6 +12,9 @@ sites:
   - name: SerenyPet
     url: https://serenypet.com
 
+assignees:
+  - leandrogehlen
+
 status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/serenysoft/status/refs/heads/master/assets/sereny-icon.png
