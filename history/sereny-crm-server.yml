@@ -1,7 +1,7 @@
 url: https://serenycrm.com/api/health
-status: down
-code: 500
-responseTime: 1475
-lastUpdated: 2026-03-01T10:27:46.306Z
+status: up
+code: 200
+responseTime: 696
+lastUpdated: 2026-03-01T11:59:32.424Z
 startTime: 2025-11-18T20:13:01.977Z
 generator: Upptime <https://github.com/upptime/upptime>
