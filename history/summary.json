@@ -4,23 +4,24 @@
     "url": "https://serenycrm.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/serenycrm.com.ico",
     "slug": "sereny-crm-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.90%",
-    "time": 746,
-    "timeDay": 541,
-    "timeWeek": 622,
-    "timeMonth": 602,
-    "timeYear": 746,
+    "time": 747,
+    "timeDay": 921,
+    "timeWeek": 660,
+    "timeMonth": 613,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2025-12-11": 25,
       "2026-01-25": 48,
       "2026-03-01": 92,
       "2026-04-16": 71,
-      "2026-07-24": 133
+      "2026-07-24": 133,
+      "2026-08-10": 0
     }
   },
   {
@@ -34,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 183,
+    "time": 182,
     "timeDay": 96,
-    "timeWeek": 198,
-    "timeMonth": 168,
-    "timeYear": 183,
+    "timeWeek": 185,
+    "timeMonth": 165,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -46,14 +47,14 @@
     "url": "https://serenypet.com",
     "icon": "https://icons.duckduckgo.com/ip3/serenypet.com.ico",
     "slug": "sereny-pet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 693,
-    "timeDay": 522,
+    "timeDay": 0,
     "timeWeek": 672,
     "timeMonth": 630,
     "timeYear": 693,
@@ -63,7 +64,8 @@
       "2026-02-24": 58,
       "2026-03-01": 67,
       "2026-03-04": 43,
-      "2026-04-16": 71
+      "2026-04-16": 71,
+      "2026-08-10": 0
     }
   }
 ]
