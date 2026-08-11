@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/serenycrm.com.ico",
     "slug": "sereny-crm-server",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.88%",
+    "uptimeDay": "92.59%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.88%",
     "time": 747,
     "timeDay": 921,
-    "timeWeek": 660,
-    "timeMonth": 613,
+    "timeWeek": 666,
+    "timeMonth": 611,
     "timeYear": 747,
     "dailyMinutesDown": {
       "2025-12-11": 25,
@@ -21,7 +21,8 @@
       "2026-03-01": 92,
       "2026-04-16": 71,
       "2026-07-24": 133,
-      "2026-08-10": 0
+      "2026-08-11": 70,
+      "2026-08-10": 37
     }
   },
   {
@@ -37,8 +38,8 @@
     "uptimeYear": "100.00%",
     "time": 182,
     "timeDay": 96,
-    "timeWeek": 185,
-    "timeMonth": 165,
+    "timeWeek": 187,
+    "timeMonth": 168,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -48,15 +49,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/serenypet.com.ico",
     "slug": "sereny-pet",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.84%",
+    "uptimeDay": "92.60%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.84%",
     "time": 693,
     "timeDay": 0,
-    "timeWeek": 672,
-    "timeMonth": 630,
+    "timeWeek": 675,
+    "timeMonth": 626,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2026-01-20": 232,
@@ -65,7 +66,8 @@
       "2026-03-01": 67,
       "2026-03-04": 43,
       "2026-04-16": 71,
-      "2026-08-10": 0
+      "2026-08-11": 70,
+      "2026-08-10": 37
     }
   }
 ]
